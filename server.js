@@ -35,6 +35,6 @@ io.on("connection", function(client) {
     });
 });
 
-server.listen(80);
+server.listen(7777);
 
 //server.listen(7777);
